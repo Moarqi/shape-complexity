@@ -32,7 +32,7 @@ options:
   --take_random         select images randomly
 ```
 
-For training the VAEs, you can either use your own dataset or use the MPEG7 Dataset for which a specific data loader is implemented. Use it by providing the path to the root of the dataset using `--train --mpeg7_path <data root> --epochs 100`.
+For training the VAEs, you can either use your own dataset or use the [MPEG7 Dataset](https://dabi.temple.edu/external/shape/MPEG7/dataset.html) for which a specific data loader is implemented. Use it by providing the path to the root of the dataset using `--train --mpeg7_path <data root> --epochs 100`.
 
 Pretrained model snapshots are saved and/or can be provided in the `trained` directory.
 
