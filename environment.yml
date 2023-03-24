@@ -1,0 +1,17 @@
+name: shape-complexity
+
+channels:
+  - pytorch 
+  - nvidia
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=11.7
+  - bzip2
+  - pillow

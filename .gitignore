@@ -1,0 +1,5 @@
+input/
+trained/
+results/
+.vscode/
+__pycache__/
