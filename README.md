@@ -1,6 +1,4 @@
-# TODO: update readme
-
-This is the official implementation for our paper [Shape complexity estimation using VAE]()
+This is the official implementation for our paper [Shape complexity estimation using VAE](https://arxiv.org/abs/2304.02766)
 
 Using this repository, sorting visualizations of shape images can be created using three different shape complexity estimation methods (which you can find in `complexity.py`).
 
